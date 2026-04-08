@@ -1,0 +1,18 @@
+{
+  "name": "api-server-db",
+  "version": "1.0.0",
+  "description": "- Language: JavaScript\r - 개발환경: node.js\r - 서버 설치 명령어: npm init -y -> package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
